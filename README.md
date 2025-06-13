@@ -1,5 +1,8 @@
 # All-Teraform-Projects
 
+1. **[Terraform-Learning](https://github.com/Kartikpawar143/Terraform-Learning.git)** <br>
+   →  Learning Terraform.
+   
 <hr>
 
 <h3> <details>
